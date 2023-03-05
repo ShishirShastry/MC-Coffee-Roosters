@@ -1,0 +1,53 @@
+.body{
+  background-image:url("R.jpg");
+  background-repeat: no-repeat;
+}
+.menu {
+  margin: 20px;
+  background-color: darkgreen;
+  
+}
+
+h2 {
+  font-size: 24px;
+  font-family:cursive;
+  color:whitesmoke;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 20px;
+  background-color:coral;
+}
+
+p {
+  margin: -10;
+}
+
+.price {
+  font-weight: bold;
+  float: right;
+  margin-right: 5px;
+  margin-bottom: 20px;
+
+}
